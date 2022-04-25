@@ -1,0 +1,6 @@
+[
+  { "type": "A", "price": 5000, "minimumBuy": 1, "limit": 0 },
+  { "type": "B", "price": 2500, "minimumBuy": 2, "limit": 11 },
+  { "type": "C", "price": 1000, "minimumBuy": 2, "limit": 18 },
+  { "type": "D", "price": 500, "minimumBuy": 4, "limit": 40 }
+]

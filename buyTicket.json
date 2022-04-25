@@ -1,0 +1,9 @@
+[
+  { "type": "B", "price": 2500, "amount": 28, "date_create": "2022-04-24" },
+  { "type": "C", "price": 1000, "amount": 30, "date_create": "2022-04-24" },
+  { "type": "D", "price": 500, "amount": 5, "date_create": "2022-04-24" },
+  { "type": "B", "price": 2500, "amount": 7, "date_create": "2022-04-24" },
+  { "type": "B", "price": 2500, "amount": 5, "date_create": "2022-04-22" },
+  { "type": "B", "price": 2500, "amount": 7, "date_create": "2022-04-23" },
+  { "type": "C", "price": 1000, "amount": 3, "date_create": "2022-04-24" }
+]
